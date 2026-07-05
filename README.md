@@ -1,4 +1,4 @@
-# Heart Disease Prediction - Machine Learning Capstone Project (Week 4)
+# Heart Disease Prediction - Machine Learning Capstone Project
 
 This repository contains the final **Major Capstone Project** for Week 4, focusing on building an end-to-end Machine Learning classification pipeline. The project predicts whether a patient is likely to develop heart disease based on various clinical parameters.
 
